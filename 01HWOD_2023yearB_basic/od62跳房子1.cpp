@@ -48,3 +48,5 @@ void od62() {
 	}
 	cout << res[0] << "," << res[1] << endl;
 }
+
+//amoscloud.comÉÏµÄ0253Ìâ
